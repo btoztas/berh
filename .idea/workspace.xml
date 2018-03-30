@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="853250eb-69ea-482a-98cf-d46d4c6ca985" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/css/sb-admin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/css/sb-admin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/js/sb-admin-charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/js/sb-admin-charts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/js/sb-admin-datatables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/js/sb-admin-datatables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/js/sb-admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/js/sb-admin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/blank.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/cards.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/charts.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/forgot-password.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/css/core.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/css/custom.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/footer.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/js/core.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/js/custom.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/modals/logout.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/navbar.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/includes/scroll-to-top.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/index.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/login.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/navbar.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/register.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/pug/tables.pug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_login.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/navbar/_navbar_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/navbar/_navbar_fixed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/navbar/_navbar_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/navbar/_navbar_static.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/navbar/_navbar_toggle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/scss/sb-admin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/chart.js/Chart.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/chart.js/Chart.bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/chart.js/Chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/chart.js/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/datatables/dataTables.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/datatables/dataTables.bootstrap4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/datatables/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/jquery-easing/jquery.easing.compatibility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/jquery-easing/jquery.easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/jquery-easing/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/popper/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/static/vendor/popper/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/templates/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/berh_site/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -173,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -187,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/berh_site/views/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -209,6 +120,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -630,7 +542,7 @@
     <entry file="file://$PROJECT_DIR$/berh_site/views/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -638,7 +550,15 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
           <folding />
         </state>
       </provider>
